@@ -1,10 +1,10 @@
 FROM rocker/rstudio:4.2.2
 
-LABEL "about" = "A Docker container for the cognate-begininings study" \
+LABEL "about" = "A Docker container for the XXXXX study" \
     "author" = "Gonzalo Garcia-Castro <gongarciacastro@gmail.com>"\
-    "github" = "https://github.com/gongcastro/cognate-beginnings" \
-    "osf" = "https://osf.io/hy984/" \
-    "source"="https://github.com/gongcastro/cognate-beginnings/blob/main/Dockerfile"
+    "github" = "https://github.com/gongcastro/XXXXX" \
+    "osf" = "https://osf.io/XXXXX/" \
+    "source"="https://github.com/gongcastro/XXXXX/blob/main/Dockerfile"
 
 # add system
 RUN apt-get update && \
