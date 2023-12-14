@@ -1,0 +1,14 @@
+# results
+*.csv
+*.rds
+*.pickle
+*.feather
+*.parquet
+*.xlsx
+
+**/*.csv
+**/*.rds
+**/*.pickle
+**/*.feather
+**/*.parquet
+**/*.xlsx
